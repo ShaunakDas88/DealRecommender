@@ -218,6 +218,6 @@ public class Member {
 	 * TO DO: This involves the bigfive 
 	 */
 	private static void RecommendByPersonality(){	
-		
+		//System.out.println("\nThis is the RecommendByPersonality method.");
 	};
 }
