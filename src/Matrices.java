@@ -20,8 +20,6 @@ public class Matrices{
    public static int num_deals;		// number of rows for transaction matrix
    public static int num_members;	// number of columns for transaction matrix
    
-   // will store aprropriate JSON filenames
-   
    // maps will be used for matrix navigation
    public static Map deals_map = new HashMap();		// know which row is which deal
    public static Map members_map = new HashMap();	// know which column is which deal
