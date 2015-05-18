@@ -1,0 +1,51 @@
+{
+    "items": [
+    {
+        "deal_id" : 123,
+        "vendor_id" : 49, 
+        "sent":  7 ,
+        "redeemed" : 4  
+    },
+    {
+        "deal_id" : 13,
+        "vendor_id" : 49, 
+        "sent":  6,
+        "redeemed" : 3  
+    },
+    {
+        "deal_id" : 45,
+        "vendor_id" : 23, 
+        "sent":  76 ,
+        "redeemed" : 0  
+    },
+    {
+        "deal_id" : 578,
+        "vendor_id" : 49, 
+        "sent":  0,
+        "redeemed" : 0  
+    },
+    {
+        "deal_id" : 11,
+        "vendor_id" : 51, 
+        "sent":  0,
+        "redeemed" : 0  
+    },
+    {
+        "deal_id" : 131,
+        "vendor_id" : 49, 
+        "sent":  60,
+        "redeemed" : 5  
+    },
+    {
+        "deal_id" : 512,
+        "vendor_id" : 23, 
+        "sent": 23,
+        "redeemed" : 0  
+    },
+    {
+        "deal_id" : 57,
+        "vendor_id" : 36, 
+        "sent":  12,
+        "redeemed" : 0  
+    }]
+}
