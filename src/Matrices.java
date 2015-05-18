@@ -297,4 +297,4 @@ public class Matrices{
 	   C = Pearson.computeCorrelationMatrix(D);
    }
 
-} // closing of the LoadData class
+}
